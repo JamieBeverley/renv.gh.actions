@@ -1,7 +1,8 @@
 on:
   pull_request:
     branches:
-      - main
+      - master
+
 name: devtools_test
 
 jobs:
